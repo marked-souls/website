@@ -60,5 +60,5 @@ instagram_url: https://instagram.com/markedsoulsmks
 # google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: marked-souls/jekyll-theme-prologue
 collections: [sections]

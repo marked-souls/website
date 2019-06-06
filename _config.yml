@@ -44,18 +44,6 @@ avatar: assets/images/logo.png
 # baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site
 
-# Social settings
-# Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url: https://twitter.com/markedsouls
-facebook_url: https://www.facebook.com/groups/markedsouls.mks/
-# googleplus_url:
-instagram_url: https://instagram.com/markedsoulsmks
-# linkedin_url:
-# github_url:
-# pinterest_url:
-# slack_url:
-# dribbble_url:
-
 # Google Analytics Tracking ID goes here:
 # google_analytics:
 

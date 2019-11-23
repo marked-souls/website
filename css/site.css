@@ -1,0 +1,7 @@
+body { background: #121212; }
+
+section { background: #fefefe; }
+
+section:nth-child(even) { background: #eee; }
+
+footer a i { font-size: 2em; }

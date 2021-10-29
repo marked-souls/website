@@ -1,0 +1,20 @@
+{
+  "title": "Marked Souls",
+  "url": "https://www.markedsouls.com/",
+  "language": "en",
+  "description": "Welcome to Marked Souls! We’re an online gaming community established in 2007.",
+  "feed": {
+    "subtitle": "Welcome to Marked Souls! We’re an online gaming community established in 2007.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://www.markedsouls.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://www.markedsouls.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Marked Souls",
+    "url": "https://www.markedsouls.com/about/"
+  }
+}

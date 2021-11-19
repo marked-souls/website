@@ -76,13 +76,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            {# <h4 class="text-white">Jeremy Knight</h4>
-            <a href="https://ko-fi.com/jeremyknight" target="_blank"><img src="{{ '/img/buy-me-a-coffee.png' | url }}" alt="buy me a coffee" class="w-100"></a>
-            <h5 class="text-white mt-3">Pages</h5>
+            <h4 class="text-white">Pages</h4>
             <div class="d-grid gap-2 mb-3">
-              <a class="btn btn-dark" href="{{ '/about/' | url }}">About</a>
-              <a class="btn btn-dark" href="{{ '/recommendations/' | url }}">Recommendations</a>
+              <a class="btn btn-danger" href="{{ '/about/' | url }}">About</a>
+              <a class="btn btn-danger" href="{{ '/fiction/' | url }}">Fan Fiction</a>
             </div>
+            {#
             <h5 class="text-white">Links</h5>
             <div class="d-grid gap-2">
               <a class="btn btn-dark" target="_blank" href="https://www.brdnug.org">Baton Rouge .NET User Group</a>
@@ -99,7 +98,7 @@
             <h4 class="text-white">Tags <a href="{{ '/tags/' | url }}" class="text-muted fs-6">All</a></h4>
             {% for tag, count in collections.tagsByCount %}
               {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-              <a href="{{ tagUrl | url }}" title="{{ tag }} ({{ count }})"><span class="badge bg-dark">{{ tag }}</span></a>
+              <a href="{{ tagUrl | url }}" title="{{ tag }} ({{ count }})"><span class="badge bg-danger">{{ tag }}</span></a>
             {% endfor %}
           </div>
           <div class="col-md-4">

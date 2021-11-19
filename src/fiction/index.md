@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Fan Fiction
+eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: fiction
   order: 3

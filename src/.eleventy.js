@@ -60,10 +60,31 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
+  // addCollection receives the new collection's name and a
+  // callback that can return any arbitrary data (since v0.5.3)
+  eleventyConfig.addCollection('tagsByCount', function(collection) {
+    const allPosts = collection.getAll()
+    const countPostsByTag = new Map();
+    allPosts.forEach((post) => {
+      const tags = post.data.tags || [];
+      tags.forEach((tag) => {
+        if (tag != 'posts') {
+          const count = countPostsByTag.get(tag) || 0;
+          countPostsByTag.set(tag, count + 1);
+        }
+      })
+    })
+
+    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1]);   
+    return sortedArray;
+  });
+
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("site.webmanifest");
+  eleventyConfig.addPassthroughCopy("staticwebapp.config.json");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({

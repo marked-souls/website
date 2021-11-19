@@ -1,10 +1,19 @@
 ---
 permalink: /tags/
 layout: layouts/home.njk
+title: Tags
 ---
-<h1>Tags</h1>
+<form>
+  <label for="tag-search" class="form-label visually-hidden">Search</label>
+  <input type="search" class="form-control" id="tag-search" placeholder="Search tags">
+</form>
 
-{% for tag in collections.tagList %}
-  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{% endfor %}
+<div id="tag-list" class="mt-3">
+  {% for tag, count in collections.tagsByCount %}
+    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+    {% set tagTitle %}{{ tag }}  ({{ count }}){% endset %}
+    <a href="{{ tagUrl | url }}" title="{{ tagTitle }}"><span class="badge bg-primary">{{ tagTitle }}</span></a>
+  {% endfor %}
+</div>
+
+<script src="{{ "/js/tag-list.js" | url }}"></script>

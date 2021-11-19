@@ -1,25 +1,42 @@
 ---
 layout: layouts/base.njk
-templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+<article class="mt-3">
+  <h1>{{ title }}</h1>
+  <div class="row mb-2">
+    <div class="col">
+      <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+    </div>
+    <div class="col text-end">
+      {%- for tag in tags | filterTagList -%}
+        {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+        <a href="{{ tagUrl | url }}" class="ms-1" title="{{ tag }}"><span class="badge bg-primary">{{ tag }}</span></a> 
+      {%- endfor %}
+    </div>
+  </div>
+  <hr>
+  {{ content | safe }}
+</article>
 
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{%- endfor %}
 
-{{ content | safe }}
 
 {%- if collections.posts %}
-{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-{%- if nextPost or previousPost %}
-<hr>
-<ul>
-  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-</ul>
-{%- endif %}
+  {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+  {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+  {%- if nextPost or previousPost %}
+    <hr>
+    <div class="row">
+      {%- if nextPost %}
+      <div class="col">
+        Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>
+      </div>
+      {% endif %}
+      {%- if previousPost %}
+      <div class="col text-end">
+        Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
+      </div>
+      {% endif %}
+    </div>
+    <ul>
+  {%- endif %}
 {%- endif %}

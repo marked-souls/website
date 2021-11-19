@@ -21,7 +21,7 @@
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <div class="container">
         <a class="navbar-brand" href="{{ '/' | url }}">
           <img src="{{ '/img/logo-white.png' | url }}" alt="" width="30" height="24" class="d-inline-block align-text-top">
@@ -43,35 +43,71 @@
         </div>
       </div>
     </nav>
-
+  
+    {%- if page.url == '/' -%}
     <header class="container p-0">
       <img src="{{ '/img/header-10-year.png' | url }}" class="img-fluid" />
     </header>
+    {%- endif -%}
 
-    <div class="container bg-light mb-0">
+    <div class="container bg-light mb-0 py-3">
       {{ content | safe }}
     </div>
 
     <footer class="container bg-danger my-0 p-3 text-center"> 
-      <a title="Marked Souls Discord" href="https://discord.gg/G4sreFM" class="btn btn-link text-dark" target="_blank">
+      <a title="Marked Souls Discord" href="https://discord.gg/G4sreFM" class="btn btn-link text-white" target="_blank">
           <i class="bi bi-discord fs-2"></i>
       </a>
-      <a title="Marked Souls Facebook" href="https://www.facebook.com/groups/markedsouls.mks/" class="btn btn-link text-dark" target="_blank">
+      <a title="Marked Souls Facebook" href="https://www.facebook.com/groups/markedsouls.mks/" class="btn btn-link text-white" target="_blank">
           <i class="bi bi-facebook fs-2"></i>
       </a>
-      <a title="Marked Souls Twitter" href="https://www.twitter.com/markedsouls" class="btn btn-link text-dark" target="_blank">
+      <a title="Marked Souls Twitter" href="https://www.twitter.com/markedsouls" class="btn btn-link text-white" target="_blank">
           <i class="bi bi-twitter fs-2"></i>
       </a>
-      <a title="Marked Souls Instagram" href="https://instagram.com/markedsoulsmks" class="btn btn-link text-dark" target="_blank">
+      <a title="Marked Souls Instagram" href="https://instagram.com/markedsoulsmks" class="btn btn-link text-white" target="_blank">
           <i class="bi bi-instagram fs-2"></i>
       </a>
-      <a title="Marked Souls YouTube" href="https://www.youtube.com/user/mksguild" class="btn btn-link text-dark" target="_blank">
+      <a title="Marked Souls YouTube" href="https://www.youtube.com/user/mksguild" class="btn btn-link text-white" target="_blank">
           <i class="bi bi-youtube fs-2"></i>
       </a>
     </footer>
 
-    <footer class="container bg-dark my-0">
-      <div>test!!</div>
+    <footer class="container-fluid bg-primary my-0 py-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            {# <h4 class="text-white">Jeremy Knight</h4>
+            <a href="https://ko-fi.com/jeremyknight" target="_blank"><img src="{{ '/img/buy-me-a-coffee.png' | url }}" alt="buy me a coffee" class="w-100"></a>
+            <h5 class="text-white mt-3">Pages</h5>
+            <div class="d-grid gap-2 mb-3">
+              <a class="btn btn-dark" href="{{ '/about/' | url }}">About</a>
+              <a class="btn btn-dark" href="{{ '/recommendations/' | url }}">Recommendations</a>
+            </div>
+            <h5 class="text-white">Links</h5>
+            <div class="d-grid gap-2">
+              <a class="btn btn-dark" target="_blank" href="https://www.brdnug.org">Baton Rouge .NET User Group</a>
+              <a class="btn btn-dark" target="_blank" href="https://www.htdnug.org">Houma-Thibodaux .NET User Group</a>
+            </div>
+            <div>
+              {% for tag in collections.categoryList %}
+                {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                <a href="{{ tagUrl | url }}" title="{{ tag }}"><span class="badge bg-dark">{{ tag }}</span></a>
+              {% endfor %}
+            </div> #}
+          </div>
+          <div class="col-md-4">
+            <h4 class="text-white">Tags <a href="{{ '/tags/' | url }}" class="text-muted fs-6">All</a></h4>
+            {% for tag, count in collections.tagsByCount %}
+              {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+              <a href="{{ tagUrl | url }}" title="{{ tag }} ({{ count }})"><span class="badge bg-dark">{{ tag }}</span></a>
+            {% endfor %}
+          </div>
+          <div class="col-md-4">
+            {# <h4 class="text-white">Twitter</h4>
+            <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/jeremyknight_me?ref_src=twsrc%5Etfw">Tweets by jeremyknight_me</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> #}
+          </div>
+        </div>
+      </div>
     </footer>
     
 

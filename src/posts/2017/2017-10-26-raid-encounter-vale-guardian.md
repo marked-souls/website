@@ -6,7 +6,6 @@ categories:
   - "articles"
   - "guild-wars-2"
 tags: 
-  - "encounter"
   - "guide"
   - "raid"
   - "tips"

@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Remarl Got Drunk
+eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: remarl
   parentKey: fiction

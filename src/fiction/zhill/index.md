@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: The Rebirth of Zhill
+eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: zhill
   parentKey: fiction

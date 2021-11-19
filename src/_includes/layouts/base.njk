@@ -79,20 +79,10 @@
             <h4 class="text-white">Pages</h4>
             <div class="d-grid gap-2 mb-3">
               <a class="btn btn-danger" href="{{ '/about/' | url }}">About</a>
+              <a class="btn btn-danger" href="{{ '/blog/' | url }}">Blog</a>
+              <a class="btn btn-danger" href="{{ '/resources/' | url }}">Resources</a>
               <a class="btn btn-danger" href="{{ '/fiction/' | url }}">Fan Fiction</a>
             </div>
-            {#
-            <h5 class="text-white">Links</h5>
-            <div class="d-grid gap-2">
-              <a class="btn btn-dark" target="_blank" href="https://www.brdnug.org">Baton Rouge .NET User Group</a>
-              <a class="btn btn-dark" target="_blank" href="https://www.htdnug.org">Houma-Thibodaux .NET User Group</a>
-            </div>
-            <div>
-              {% for tag in collections.categoryList %}
-                {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-                <a href="{{ tagUrl | url }}" title="{{ tag }}"><span class="badge bg-dark">{{ tag }}</span></a>
-              {% endfor %}
-            </div> #}
           </div>
           <div class="col-md-4">
             <h4 class="text-white">Tags <a href="{{ '/tags/' | url }}" class="text-muted fs-6">All</a></h4>
@@ -102,9 +92,11 @@
             {% endfor %}
           </div>
           <div class="col-md-4">
-            {# 
-            <h4 class="text-white">Twitter</h4>
-            #}
+            {# <h4 class="text-white">Resources</h4>
+             <div class="d-grid gap-2 mb-3">
+              <a class="btn btn-danger" href="{{ '/tags/wiki' | url }}">Wiki</a>
+              <a class="btn btn-danger" href="" target="_blank">GW2 Videos</a>
+            </div> #}
           </div>
         </div>
       </div>

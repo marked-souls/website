@@ -2,12 +2,10 @@
 layout: layouts/post.njk
 title: "Guide to Class Selection"
 date: "2012-10-12"
-categories: 
-  - "articles"
-  - "guild-wars-2"
 tags: 
+  - "guild-wars-2"
   - "guide"
-  - "tips"
+  - "wiki"
 ---
 
 We have had a lot of players struggle with choosing a main profession. This guide will hopefully help you have a much easier time that some of our players.

@@ -1,14 +1,11 @@
 ---
 layout: layouts/post.njk
-title: "Raid Encounter: Slothasor"
+title: "Raid Wing 2: Slothasor"
 date: "2017-10-26"
-categories: 
-  - "articles"
-  - "guild-wars-2"
 tags: 
+  - "guild-wars-2"
   - "raid"
   - "wiki"
-  - "gw2"
   - "pve"
 ---
 
@@ -16,11 +13,7 @@ Slothasor is the first boss of Raid 1 Wing 2 (also known as Forsaken Thicket's S
 
 **Recommended Video Guide**
 
-https://www.youtube.com/watch?v=pWO-9zdVJlc
-
-**Slothasor Inner Strategy Pattern**
-
-[![](https://markedsoulsmks.files.wordpress.com/2017/10/sloth-inner-pattern.jpg)](https://markedsoulsmks.files.wordpress.com/2017/10/sloth-inner-pattern.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pWO-9zdVJlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Additional Useful Information**
 

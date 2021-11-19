@@ -2,12 +2,10 @@
 layout: layouts/post.njk
 title: "Mesmer Officially Released"
 date: "2011-12-14"
-categories: 
+tags:  
   - "guild-wars-2"
   - "news"
-tags: 
   - "mesmer"
-  - "profession"
 ---
 
  

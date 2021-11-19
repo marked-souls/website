@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "A Guide to Tactical Decision Making"
 date: "2011-11-29"
-categories: 
-  - "articles"
-tags: 
+tags:  
+  - "wiki"
   - "guide"
   - "tips"
 ---

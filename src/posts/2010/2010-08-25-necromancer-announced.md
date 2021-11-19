@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Necromancer Announced"
 date: "2010-08-25"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
   - "necromancer"
 ---
 

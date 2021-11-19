@@ -1,14 +1,11 @@
 ---
 layout: layouts/post.njk
-title: "Raid Encounter: Deimos"
+title: "Raid Wing 4: Deimos"
 date: "2017-11-02"
-categories: 
-  - "articles"
-  - "guild-wars-2"
 tags: 
   - "raid"
   - "wiki"
-  - "gw2"
+  - "guild-wars-2"
   - "pve"
 ---
 
@@ -16,7 +13,7 @@ Deimos is the 4th boss of Raid 2 (also known as Bastion of the Penitent). Below 
 
 **Recommended Video Guide**
 
-https://www.youtube.com/watch?v=04KJ9Mtocmw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04KJ9Mtocmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Additional Useful Information**
 

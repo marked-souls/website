@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Guild Beta Server"
 date: "2012-04-27"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
   - "beta"
   - "server"
 ---

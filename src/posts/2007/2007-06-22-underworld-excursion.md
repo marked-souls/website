@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Underworld Excursion"
 date: "2007-06-22"
-categories: 
+tags:
   - "guild-wars"
   - "news"
-tags: 
   - "pve"
 ---
 
@@ -13,6 +12,6 @@ This week our guild’s high-end PVE excursion was to the Underworld. Our group 
 
 It really was an excellent run though and it was actually Kousei’s greatest and most far reaching excursion into the Underworld. I had never even been to Chaos Plains, Bone Pits, and Spawning Pools with any character before last night.
 
-![](http://gallery.markedsouls.com/albums/userpics/10001/normal_gw162.jpg "UW group")
-
 Thanks to all who were in the party!
+
+<img src="{{ '/img/posts/2007/gw162.jpg' | url }}" alt="UW group" class="img-fluid" />

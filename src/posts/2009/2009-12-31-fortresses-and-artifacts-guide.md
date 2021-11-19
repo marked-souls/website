@@ -2,13 +2,11 @@
 layout: layouts/post.njk
 title: "Fortresses and Artifacts Guide"
 date: "2009-12-31"
-categories: 
-  - "aion"
-  - "articles"
 tags: 
+  - "aion"
   - "guide"
   - "pvp"
-  - "tips"
+  - "wiki"
 ---
 
 Lets start with the artifacts, the tide turners of a battle, and this is true without a doubt that having these make numbers meaningless, make the powerful powerless, and have the capability to turn the weak into the strong.

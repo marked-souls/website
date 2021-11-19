@@ -2,29 +2,28 @@
 layout: layouts/post.njk
 title: "Aion Performance Tweaks"
 date: "2009-11-02"
-categories: 
-  - "aion"
-  - "articles"
 tags: 
-  - "guide"
-  - "tips"
+  - "aion"
+  - "wiki"
 ---
 
 Here are some tips, tricks, and tweaks found by Marked Souls members on other forums, through experimentation, etc. Enjoy!
 
-**Cut Your Ping In Half**
+<h4>Cut Your Ping In Half</h4>
 
-> I tried this fix and I went from an average 130ms to never above 30ms all night.
-> 
-> Think this only applies to vista/7 users. http://jasdemi.com/aion/waysto-reduce-your-aion-ping/
+<blockquote>
+I tried this fix and I went from an average 130ms to never above 30ms all night.
+ 
+Think this only applies to vista/7 users. http://jasdemi.com/aion/waysto-reduce-your-aion-ping/
+</blockquote>
 
-**Fixed FPS Option**
+<h4>Fixed FPS Option</h4>
 
 > ok, so for the past 7months in Caion and now NaAion i have been running with lowest possible graphics and still lag like a nyerk. I also had the fixed fps option turned off. Then, by some cahnce I decided to see how game would look with full graphics and said why not turn this little option on and see what happens. little did I know that it would make the difference between lag and no lag/rubberbanding. I can also play with full graphics now. WTF...Everybody turn on fixed FPS it will make your day.
 > 
 > it keeps u at a certain fps by minimizing graphix output for certain images. so, unless can handle loading all frames data extremely fast, you should have it on. I have a \*\*\*\*\*\* graphix card so i have to have on.
 
-**Tips and Tricks To Prevent Crashing**
+<h4>Tips and Tricks To Prevent Crashing</h4>
 
 > I along with many others have problems with crashing in game during siege.
 > 

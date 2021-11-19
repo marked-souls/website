@@ -2,28 +2,27 @@
 layout: layouts/post.njk
 title: "Art and Science of Aggro Control"
 date: "2007-08-27"
-categories: 
-  - "articles"
-  - "guild-wars"
 tags: 
+  - "guild-wars"
   - "aggro"
   - "guide"
   - "pve"
+  - "wiki"
 ---
 
 Aggro control is probably one of those strategies in the game that everyone's heard of but few actually fully understand. The reason is simple. To understand aggro control, you have to experience it from both sides and contrary to popular belief the characters that are not tanking have just as much control over a good aggro as the tank does. Hopefully this guide can help those of you who just want to play your \[insert favorite class here\] and not worry about the other classes.
 
-**What is Aggro Control?**
+<h4>What is Aggro Control?</h4>
 
 To aggro is to get the attention of a group or groups of enemies. Aggro control is directing the enemy's movements, etc. for your party's benefit.
 
-**What are the benefits of Aggro Control?**
+<h4>What are the benefits of Aggro Control?</h4>
 
 The major benefit of aggro control is that if used correctly it can keep your party members safe. As melee attackers are the easiest to control during an aggro proper aggro control can stop most if not all melee enemies from getting to your party.
 
 The second benefit of aggro control is the increased effectiveness of AoE, or area of effect, skills. Some AoE skills can be detrimental to good aggro control as they cause monsters to flee thus enabling them to reevaluate their targets. Skills such as Firestorm, Balthazar's Aura, Mark of Pain, and Breath of Fire should be avoided if you are on a team that intends to control aggro. AoE skills that can work extremely well on an aggro control team include Spiteful Spirit, Liquid Flame, Rodgort's Invocation, Suffering, Ancestor's Rage, and Spirit Rift.
 
-**The Tank's Role**
+<h4>The Tank's Role</h4>
 
 The tank is whatever character your party decides will be acquiring and holding aggro. When about to aggro, announce it and move out of everyone's aggro (they will be outside of yours). Be sure to keep communication open. You must tell everyone what you plan to do if you expect them to follow along. Once you have enemies attracted to you, try and position yourself between all of them and the backline. A good technique is to leave some room between yourself and your party so that you can back up to manipulate the aggro. Most of the time simply backing up will better group the aggro.
 
@@ -39,7 +38,7 @@ Not moving is harder than it seems. The fact that most characters tanking will b
 
 As the tank, you should be running some skills that will give you time to manipulate your aggro while not being too heavily damaged. Skills that tanks can use to prevent damage include Arcane Echo'd Shadow Form, Gladiator's Defense, Deadly Riposte, Dolyak's Signet, Vow of Silence, Conviction, Armor of Earth, Obsidian Flesh, Stoneflesh Aura, etc. Find the tank build that works for you but you will probably want some combination of damage prevention, damage reduction, and self heal.
 
-**Support Roles**
+<h4>Support Roles</h4>
 
 All characters that will not be holding aggro, including melee characters not chosen to tank, are extremely important when trying to hold a good aggro. When the tank is acquiring aggro, make sure to be outside of his aggro bubble (he/she will be outside of yours). It only takes one person to be out of place and form an aggro bridge which monsters can use to rush past the tank and straight for the backline. The key is to stay back until the tank announces that he has aggro for if you move in too early there is a chance the monsters have not aggro'd tightly to the tank and will run straight to the backline. Once the tank has communicated that he has aggro, then it is all about positioning.
 
@@ -55,14 +54,10 @@ Ritualists and Rangers need to aware of where they are placing their spirits. Su
 
 Minion Masters and Beastmasters should only get close enough for minion/pet aggro once the tank has acquired a good aggro. This will allow the minions or pets to move in and help surround the aggro without breaking that aggro.
 
-**Heroes**
+<h4>Heroes</h4>
 
 A quick note about heroes. Due to their erratic nature, it is not advised that heroes be used as tanks. As a human tank, it is possible to successfully complete the above strategies by pinning heroes strategically but be advised that heroes will cause aggro break due to bad positioning often.
 
-**Closing**
+<h4>Closing</h4>
 
 I hope after reading this that you've found it helpful. If you put this into practice, you can keep your backline and support characters much safer. You can expect a few enemies to stray every now and then, especially on open area and wall aggros, but for the most part you can control the way the enemies get to move in the game.
-
-**Acknowledgements**
-
-Thanks to everyone that helped me to polish this guide.

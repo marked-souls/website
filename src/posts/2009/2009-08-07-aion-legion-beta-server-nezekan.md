@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Aion Legion Beta Server: Nezekan"
 date: "2009-08-07"
-categories: 
+tags: 
   - "aion"
   - "news"
-tags: 
   - "beta"
   - "server"
 ---

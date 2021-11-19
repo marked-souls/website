@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Announcing GW2 BWE2"
 date: "2012-05-29"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
   - "beta"
 ---
 

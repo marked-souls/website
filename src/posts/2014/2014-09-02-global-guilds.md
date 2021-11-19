@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Global Guilds"
 date: "2014-09-02"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
   - "patch"
 ---
 

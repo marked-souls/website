@@ -2,11 +2,9 @@
 layout: layouts/post.njk
 title: "Embark Beach and Heroes Update"
 date: "2011-03-04"
-categories: 
-  - "guild-wars"
-  - "guild-wars-2"
-  - "news"
 tags: 
+  - "guild-wars"
+  - "news"
   - "patch"
 ---
 

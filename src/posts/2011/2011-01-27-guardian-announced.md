@@ -2,12 +2,10 @@
 layout: layouts/post.njk
 title: "Guardian Announced"
 date: "2011-01-27"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
   - "guardian"
-  - "profession"
 ---
 
 "I'll guard you. Let them come through ME first!"

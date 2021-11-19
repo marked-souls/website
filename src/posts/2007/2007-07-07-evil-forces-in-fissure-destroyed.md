@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Evil forces in Fissure destroyed!"
 date: "2007-07-07"
-categories: 
+tags: 
   - "guild-wars"
   - "news"
-tags: 
   - "pve"
 ---
 

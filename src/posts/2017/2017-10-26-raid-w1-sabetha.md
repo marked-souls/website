@@ -1,14 +1,11 @@
 ---
 layout: layouts/post.njk
-title: "Raid Encounter: Sabetha the Saboteur"
+title: "Raid Wing 1: Sabetha the Saboteur"
 date: "2017-10-26"
-categories: 
-  - "articles"
-  - "guild-wars-2"
 tags: 
+  - "guild-wars-2"
   - "raid"
   - "wiki"
-  - "gw2"
   - "pve"
 ---
 
@@ -16,7 +13,7 @@ Sabetha the Saboteur is the 3rd boss of Raid 1 Wing 1 (also known as Forsaken Th
 
 **Recommended Video Guide**
 
-https://www.youtube.com/watch?v=yFo5QPoZ1aM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yFo5QPoZ1aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Additional Useful Information**
 

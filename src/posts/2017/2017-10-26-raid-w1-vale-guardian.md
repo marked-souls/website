@@ -1,14 +1,11 @@
 ---
 layout: layouts/post.njk
-title: "Raid Encounter: Vale Guardian"
+title: "Raid Wing 1: Vale Guardian"
 date: "2017-10-26"
-categories: 
-  - "articles"
-  - "guild-wars-2"
 tags: 
+  - "guild-wars-2"
   - "raid"
   - "wiki"
-  - "gw2"
   - "pve"
 ---
 
@@ -16,7 +13,7 @@ Vale Guardian is the 1st boss of Raid 1 Wing 1 (also known as Forsaken Thicket'
 
 **Recommended Video Guide**
 
-https://www.youtube.com/watch?v=IiSsq85T23Q
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IiSsq85T23Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Additional Useful Information**
 

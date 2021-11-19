@@ -1,14 +1,11 @@
 ---
 layout: layouts/post.njk
-title: "Raid Encounter: Keep Construct"
+title: "Raid Wing 3: Keep Construct"
 date: "2017-10-26"
-categories: 
-  - "articles"
-  - "guild-wars-2"
 tags: 
   - "raid"
   - "wiki"
-  - "gw2"
+  - "guild-wars-2"
   - "pve"
 ---
 
@@ -18,7 +15,7 @@ Keep Construct is the second encounter of Raid 1 Wing 3 (also known as Forsaken
 
 Guide starts at 12:00.
 
-https://www.youtube.com/watch?v=ilXUMB1SO9Y
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ilXUMB1SO9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Additional Useful Information**
 

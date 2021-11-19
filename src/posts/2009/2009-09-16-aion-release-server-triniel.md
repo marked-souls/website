@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Aion Release Server: Triniel"
 date: "2009-09-16"
-categories: 
+tags: 
   - "aion"
   - "news"
-tags: 
   - "server"
 ---
 

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Happy 10 Years Marked Souls!"
 date: "2017-11-30"
-categories: 
+tags: 
   - "news"
 ---
 

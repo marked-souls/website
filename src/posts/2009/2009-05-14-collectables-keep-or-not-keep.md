@@ -2,23 +2,22 @@
 layout: layouts/post.njk
 title: "Collectables: To Keep or Not to Keep"
 date: "2009-05-14"
-categories: 
-  - "articles"
-  - "guild-wars"
 tags: 
+  - "guild-wars"
   - "guide"
   - "pve"
+  - "wiki"
 ---
 
 This article is not to tell you whether or not to keep items but to help you in deciding what collectable drops you think are worth keeping.
 
-**Profitable Rewards**
+<h4>Profitable Rewards</h4>
 
 These rewards once traded for will make you more gold than selling the collectable items themselves.
 
 The entire list of profitable rewards can be found: [http://wiki.guildwars.com/wiki/Category:Profitable\_trophies](http://wiki.guildwars.com/wiki/Category:Profitable_trophies "Profitable Collector Items"). It's a pretty handy list to have bookmarked with the new storage upgrades.
 
-**Rewards Worth Keeping**
+<h4>Rewards Worth Keeping</h4>
 
 \* Alphabetized by Collectable Item
 
@@ -40,7 +39,7 @@ The entire list of profitable rewards can be found: [http://wiki.guildwars.com/w
 - Superb Charr Carving x 250 = Mask of the Mo Zing (Armor)
 - Unctuous Remains x 7 = Scroll of Hero's Insight (Exp Bonus Scroll)
 
-**Holiday Event Collectors**
+<h4>Holiday Event Collectors</h4>
 
 - [Halloween Collectors](http://gw.gamewikis.org/wiki/Halloween_2007#Collectors)
 - [Wintersday Collectors](http://gw.gamewikis.org/wiki/Wintersday_2007#Collectors)

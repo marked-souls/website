@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "GW2 Launch Date"
 date: "2012-06-28"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
 ---

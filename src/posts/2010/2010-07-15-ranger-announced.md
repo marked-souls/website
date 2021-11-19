@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Ranger Announced"
 date: "2010-07-15"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
   - "ranger"
 ---
 

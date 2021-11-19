@@ -10,7 +10,7 @@ layout: layouts/base.njk
     <div class="col text-end">
       {%- for tag in tags | filterTagList -%}
         {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-        <a href="{{ tagUrl | url }}" class="ms-1" title="{{ tag }}"><span class="badge bg-primary">{{ tag }}</span></a> 
+        <a href="{{ tagUrl | url }}" class="ms-1" title="{{ tag }}"><span class="badge bg-danger">{{ tag }}</span></a> 
       {%- endfor %}
     </div>
   </div>
@@ -26,14 +26,14 @@ layout: layouts/base.njk
   {%- if nextPost or previousPost %}
     <hr>
     <div class="row">
-      {%- if nextPost %}
+      {%- if previousPost %}
       <div class="col">
-        Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>
+        Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
       </div>
       {% endif %}
-      {%- if previousPost %}
+      {%- if nextPost %}
       <div class="col text-end">
-        Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
+        Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>
       </div>
       {% endif %}
     </div>

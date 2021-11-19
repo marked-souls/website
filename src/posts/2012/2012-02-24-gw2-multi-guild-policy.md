@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "GW2 Multi-Guild Policy"
 date: "2012-02-24"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
 ---
@@ -20,5 +20,3 @@ We all know that cliques form within all guilds both large and small. We saw it 
 That's all we will ask of our guild members. _**Represent Marked Souls when you're playing with Marked Souls.**_
 
 Players will be rewarded based on representation and participation. If Guild Wars 2 offers an influence and guild storage audit system, we can easily base promotions, awards, etc on what each player gives to the guild. You also must be representing the guild to access influence purchased items and rewards.
-
-Original Forum Topic: [http://forums.markedsouls.com/index.php?topic=639.0](http://forums.markedsouls.com/index.php?topic=639.0)

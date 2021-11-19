@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: "7th Year Anniversary Celebration"
 date: "2012-04-25"
-categories: 
-  - "game-events"
+tags: 
+  - "events"
   - "guild-wars"
   - "news"
 ---

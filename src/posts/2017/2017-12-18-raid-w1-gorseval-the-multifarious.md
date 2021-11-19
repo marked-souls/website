@@ -2,13 +2,10 @@
 layout: layouts/post.njk
 title: "Raid Encounter: Gorseval the Multifarious"
 date: "2017-12-18"
-categories: 
-  - "articles"
-  - "guild-wars-2"
 tags: 
   - "raid"
   - "wiki"
-  - "gw2"
+  - "guild-wars-2"
   - "pve"
 ---
 
@@ -16,7 +13,7 @@ Gorseval the Multifarious is the 2nd boss of Raid 1 Wing 1 (also known as Forsa
 
 **Recommended Video Guide**
 
-https://www.youtube.com/watch?v=J6SnUnsppPc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J6SnUnsppPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Additional Useful Information**
 

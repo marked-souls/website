@@ -2,15 +2,11 @@
 layout: layouts/post.njk
 title: "Introducing the Thief"
 date: "2011-03-17"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
-  - "profession"
   - "thief"
 ---
-
- 
 
 > A master of stealth and surprise, the thief is deadly in single combat—particularly when catching enemies off guard. Thieves compensate for their relatively low armor and health by being quick and evasive. They can move through the shadows, vanish into thin air, or steal items from their opponents and use them as weapons. Enemies should watch their backs, or the thief will watch it for them.
 > 

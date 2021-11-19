@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Release Server and Information"
 date: "2012-08-19"
-categories: 
-  - "guild-wars-2"
-  - "news"
 tags: 
+  - "guild-wars-2"
+  - "news" 
   - "server"
 ---
 

@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Beta Weekend Events Starting!"
 date: "2012-04-19"
-categories: 
+tags: 
   - "guild-wars-2"
   - "news"
-tags: 
   - "beta"
 ---
 

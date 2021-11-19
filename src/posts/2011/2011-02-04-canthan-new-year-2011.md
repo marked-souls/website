@@ -2,11 +2,9 @@
 layout: layouts/post.njk
 title: "Canthan New Year 2011"
 date: "2011-02-04"
-categories: 
-  - "game-events"
+tags: 
+  - "events"
   - "guild-wars"
-  - "guild-wars-2"
-  - "news"
 ---
 
 > The Year of the Rabbit is upon us—it's time for the annual Canthan New Year's Festival! Help honor the Celestial Rabbit, a heavenly hare that will descend from the sky to bestow good luck upon the populace for all of 2011—but only if the traditional New Year's feast meets the tiny beast's high standards! — Official website

@@ -2,13 +2,13 @@
 layout: layouts/post.njk
 title: "Templar Cooking Items"
 date: "2009-12-01"
-categories: 
-  - "aion"
-  - "articles"
 tags: 
+  - "aion"
+  - "wiki"
   - "cooking"
   - "guide"
   - "templar"
+  - "crafting"
 ---
 
 The following are recommended Food and Drink items for Templars with cooking level and description next to each. I have placed a star (\*) next to my personal favorite within each category.

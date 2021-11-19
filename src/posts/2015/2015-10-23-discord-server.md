@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Discord Server"
 date: "2015-10-23"
-categories: 
+tags: 
   - "news"
 ---
 

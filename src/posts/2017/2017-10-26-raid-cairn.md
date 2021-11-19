@@ -6,10 +6,10 @@ categories:
   - "articles"
   - "guild-wars-2"
 tags: 
-  - "guide"
   - "raid"
-  - "tips"
-  - "video"
+  - "wiki"
+  - "gw2"
+  - "pve"
 ---
 
 Cairn the Indomitable is the first boss of Raid 2 (also known as Bastion of the Penitent). Below is a curated list of resources that our guild thinks are the most useful for Cairn.

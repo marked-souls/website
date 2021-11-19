@@ -6,10 +6,10 @@ categories:
   - "articles"
   - "guild-wars-2"
 tags: 
-  - "guide"
   - "raid"
-  - "tips"
-  - "video"
+  - "wiki"
+  - "gw2"
+  - "pve"
 ---
 
 Sabetha the Saboteur is the 3rd boss of Raid 1 Wing 1 (also known as Forsaken Thicket's Spirit Vale). Below is a curated list of resources that our guild thinks are the most useful for Sabeth.

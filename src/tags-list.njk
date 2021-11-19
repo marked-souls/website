@@ -12,7 +12,7 @@ title: Tags
   {% for tag, count in collections.tagsByCount %}
     {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
     {% set tagTitle %}{{ tag }}  ({{ count }}){% endset %}
-    <a href="{{ tagUrl | url }}" title="{{ tagTitle }}"><span class="badge bg-primary">{{ tagTitle }}</span></a>
+    <a href="{{ tagUrl | url }}" title="{{ tagTitle }}"><span class="badge bg-danger">{{ tagTitle }}</span></a>
   {% endfor %}
 </div>
 

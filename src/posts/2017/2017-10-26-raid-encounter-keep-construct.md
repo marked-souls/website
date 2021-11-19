@@ -6,10 +6,10 @@ categories:
   - "articles"
   - "guild-wars-2"
 tags: 
-  - "guide"
   - "raid"
-  - "tips"
-  - "video"
+  - "wiki"
+  - "gw2"
+  - "pve"
 ---
 
 Keep Construct is the second encounter of Raid 1 Wing 3 (also known as Forsaken Thicket's Stronghold of the Faithful). Below is a curated list of resources that our guild thinks are the most useful for Keep Construct.

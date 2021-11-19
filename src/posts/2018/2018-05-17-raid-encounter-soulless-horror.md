@@ -6,10 +6,9 @@ categories:
   - "articles"
   - "guild-wars-2"
 tags: 
-  - "guide"
   - "raid"
-  - "tips"
-  - "video"
+  - "wiki"
+  - "gw2"
 ---
 
 Soulless Horror is the 1st boss of the Hall of Chains. Below is a curated list of resources that our guild thinks are the most useful for Soulless Horror.

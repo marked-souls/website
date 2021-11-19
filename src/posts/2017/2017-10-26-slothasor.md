@@ -6,10 +6,10 @@ categories:
   - "articles"
   - "guild-wars-2"
 tags: 
-  - "guide"
   - "raid"
-  - "tips"
-  - "video"
+  - "wiki"
+  - "gw2"
+  - "pve"
 ---
 
 Slothasor is the first boss of Raid 1 Wing 2 (also known as Forsaken Thicket's Salvation Pass). Below is a curated list of resources that our guild thinks are the most useful for Slothasor.

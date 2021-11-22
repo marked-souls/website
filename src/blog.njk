@@ -1,0 +1,19 @@
+---
+layout: layouts/home.njk
+permalink: /posts/
+eleventyNavigation:
+  key: Blog
+  order: 2
+---
+
+<form>
+  <label for="blog-search" class="form-label visually-hidden">Search</label>
+  <input type="search" class="form-control" id="blog-search" placeholder="Search post titles or tags">
+</form>
+
+<div id="blog-list" class="mt-3">
+  {% set postslist = collections.posts %}
+  {% include "postslist.njk" %}
+</div>
+
+<script src="{{ "/js/blog.js" | url }}"></script>

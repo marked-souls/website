@@ -1,0 +1,27 @@
+{
+  "name": "marked-souls-site",
+  "version": "1.0.0",
+  "description": "Marked Souls website",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marked-souls/website.git"
+  },
+  "license": "MIT",
+  "homepage": "https://www.markedsouls.com",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "luxon": "^1.26.0",
+    "markdown-it": "^12.1.0",
+    "markdown-it-anchor": "^8.1.2"
+  }
+}

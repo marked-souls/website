@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{%- if title -%}{{title}}&nbsp;|&nbsp;{%- endif -%}{{ metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/img/icons/apple-touch-icon.png' | url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/img/icons/favicon-32x32.png' | url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/img/icons/favicon-16x16.png' | url }}">
+    <link rel="manifest" href="{{ '/site.webmanifest' | url }}">
+    <link rel="mask-icon" href="{{ '/img/icons/safari-pinned-tab.svg' | url }}" color="#6f0a1a">
+    <meta name="msapplication-TileColor" content="#6f0a1a">
+    <meta name="theme-color" content="#6f0a1a">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/lux/bootstrap.min.css" integrity="sha256-WW13HpaaG94O2RHAP6ZIIEcijhqdeYjh3FkqE7zgMbY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css" integrity="sha256-xI9svxPNgINGMuNc6T4pgY5QN385llAJtoyzuf3rcbI=" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ '/css/site.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <div class="container">
+        <a class="navbar-brand" href="{{ '/' | url }}">
+          <img src="{{ '/img/logo-white.png' | url }}" alt="" width="30" height="24" class="d-inline-block align-text-top">
+          {{ metadata.title }}
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarColor02">
+          <ul class="navbar-nav ms-auto">
+          {%- for entry in collections.all | eleventyNavigation %}
+            {%- if not entry.parentKey -%}
+            <li class="nav-item">
+              <a class="nav-link{% if entry.url == page.url %} active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
+            </li>
+            {%- endif -%}
+          {%- endfor %}
+          </ul>
+        </div>
+      </div>
+    </nav>
+  
+    {%- if page.url == '/' -%}
+    <header class="container p-0">
+      <img src="{{ '/img/header-10-year.png' | url }}" class="img-fluid" />
+    </header>
+    {%- endif -%}
+
+    <div class="container bg-light mb-0 py-3">
+      {{ content | safe }}
+    </div>
+
+    <footer class="container bg-danger my-0 p-3 text-center"> 
+      <a title="Marked Souls Discord" href="https://discord.gg/G4sreFM" class="btn btn-link text-white" target="_blank">
+          <i class="bi bi-discord fs-2"></i>
+      </a>
+      <a title="Marked Souls Facebook" href="https://www.facebook.com/groups/markedsouls.mks/" class="btn btn-link text-white" target="_blank">
+          <i class="bi bi-facebook fs-2"></i>
+      </a>
+      <a title="Marked Souls Twitter" href="https://www.twitter.com/markedsouls" class="btn btn-link text-white" target="_blank">
+          <i class="bi bi-twitter fs-2"></i>
+      </a>
+      <a title="Marked Souls Instagram" href="https://instagram.com/markedsoulsmks" class="btn btn-link text-white" target="_blank">
+          <i class="bi bi-instagram fs-2"></i>
+      </a>
+      <a title="Marked Souls YouTube" href="https://www.youtube.com/user/mksguild" class="btn btn-link text-white" target="_blank">
+          <i class="bi bi-youtube fs-2"></i>
+      </a>
+    </footer>
+
+    <footer class="container-fluid bg-primary my-0 py-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h4 class="text-white">Pages</h4>
+            <div class="d-grid gap-2 mb-3">
+              <a class="btn btn-danger" href="{{ '/about/' | url }}">About</a>
+              <a class="btn btn-danger" href="{{ '/blog/' | url }}">Blog</a>
+              <a class="btn btn-danger" href="{{ '/resources/' | url }}">Resources</a>
+              <a class="btn btn-danger" href="{{ '/fiction/' | url }}">Fan Fiction</a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <h4 class="text-white">Tags <a href="{{ '/tags/' | url }}" class="text-muted fs-6">All</a></h4>
+            {% for tag, count in collections.tagsByCount %}
+              {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+              <a href="{{ tagUrl | url }}" title="{{ tag }} ({{ count }})"><span class="badge bg-danger">{{ tag }}</span></a>
+            {% endfor %}
+          </div>
+          <div class="col-md-4">
+            {# <h4 class="text-white">Resources</h4>
+             <div class="d-grid gap-2 mb-3">
+              <a class="btn btn-danger" href="{{ '/tags/wiki' | url }}">Wiki</a>
+              <a class="btn btn-danger" href="" target="_blank">GW2 Videos</a>
+            </div> #}
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+
+    <!-- Current page: {{ page.url | url }} -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  </body>
+</html>

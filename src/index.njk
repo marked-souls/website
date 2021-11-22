@@ -1,0 +1,15 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+
+<h1>Welcome to Marked Souls</h1>
+{% include "blurbs/about.njk" %}
+<div class="text-center">
+    <a href="{{ '/about/' | url }}" class="btn btn-danger">Read More</a>
+</div>
+<hr>
+<h1>Join</h1>
+{% include "blurbs/join.njk" %}

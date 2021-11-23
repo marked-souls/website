@@ -11,34 +11,75 @@ eleventyNavigation:
 <div class="float-end ml-3">
     <img src="{{ '/img/resources.jpg' | url }}" alt="Guild Wars 2 logo" style="width: 50vw;" />
 </div>
+<!-- 
+<a href="" target="_blank"></a> 
+-->
 
 ## Links
 
-- [Official GW2 Wiki](http://wiki.guildwars2.com "Guild Wars 2 Wiki")
-- [GW2 Efficiency](https://gw2efficiency.com/)
-- [GW2Skills.net Build Calculator](http://www.gw2skills.net/ "GW2Skills.net")
-- Event Timers \[[Wiki](http://wiki.guildwars2.com/wiki/Event_timers "GW2 Wiki Event Timers")\] \[[GW2Timer](http://gw2timer.com)\]
-- Builds \[[MetaBattle](http://metabattle.com/wiki/MetaBattle_Wiki)\]
+- <a href="http://wiki.guildwars2.com" target="_blank">Official Guild Wars 2 Wiki</a>
+- <a href="GW2 Efficiency" target="_blank">https://gw2efficiency.com/</a>
+- Builds
+  - <a href="http://www.gw2skills.net/" target="_blank">GW2Skills.net Build Calculator</a>
+  - General: <a href="http://metabattle.com/" target="_blank">MetaBattle</a>
+  - Fractals: <a href="https://discretize.eu/" target="_blank">Discretize</a>
+  - Raid: <a href="https://snowcrows.com/" target="_blank">Snow Crows</a>
+- Event Timers
+  - <a href="http://wiki.guildwars2.com/wiki/Event_timers">GW2 Wiki Timer</a>
+  - <a href="http://gw2timer.com">GW2Timer</a>
+- <a href="https://wvwintel.com/" target="_blank">WvW Intel</a>
 
-**Guild Missions**
+#### Crafting / Trading Post / Maps
 
-- Bounty \[[Wiki](http://wiki.guildwars2.com/wiki/Guild_bounty)\] \[[Dulfy](http://dulfy.net/2013/02/27/gw2-guild-bounty-guide/)\]
-- Challenge \[[Wiki](http://wiki.guildwars2.com/wiki/Guild_Challenge)\] \[[Dulfy](http://dulfy.net/2013/04/20/gw2-guild-challenge-guild-mission-guide/)\]
-- Rush \[[Wiki](http://wiki.guildwars2.com/wiki/Guild_Rush)\] \[[Dulfy](http://dulfy.net/2013/03/17/gw2-guild-rush-guild-mission-guide/)\]
-- Trek \[[Wiki](http://wiki.guildwars2.com/wiki/Guild_trek)\] \[[Dulfy](http://dulfy.net/2013/03/03/gw2-guild-trek-guild-mission-guide/)\]
-- Puzzle \[[Wiki](http://wiki.guildwars2.com/wiki/Guild_Puzzle)\] \[[Dulfy](http://dulfy.net/2013/04/28/gw2-guild-puzzles-guild-mission-guide/)\]
+- <a href="http://www.gw2crafts.net/" target="_blank">GW2Crafts.net</a>
+- <a href="https://www.gw2bltc.com/" target="_blank">GW2 BLTC</a>
+- <a href="http://www.gw2spidy.com/" target="_blank">GW2Spidy.com</a>
+- <a href="http://www.gw2nodes.com/" target="_blank">GW2 Nodes</a>
 
-**Crafting / Trading Post / Maps**
+#### Guild Missions
 
-- [GW2 Crafts](http://www.gw2crafts.net/ "GW2Crafts.net")
-- [GW2 BLTC](https://www.gw2bltc.com/)
-- [GW2 Spidy](http://www.gw2spidy.com/ "GW2Spidy.com")
-- [GW2 Nodes](http://www.gw2nodes.com/ "GW2 Nodes")
+<table class="table table-sm table-bordered table-striped w-auto">
+    <thead>
+        <tr class="table-dark">
+            <th>Mission</th>
+            <th>Wiki</th>
+            <th>Dulfy</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Bounty</th>
+            <td><a href="http://wiki.guildwars2.com/wiki/Guild_bounty" target="_blank">Wiki</a></td>
+            <td><a href="http://dulfy.net/2013/02/27/gw2-guild-bounty-guide/" target="_blank">Dulfy</a></td>
+        </tr>
+        <tr>
+            <th>Challenge</th>
+            <td><a href="http://wiki.guildwars2.com/wiki/Guild_Challenge" target="_blank">Wiki</a></td>
+            <td><a href="http://dulfy.net/2013/04/20/gw2-guild-challenge-guild-mission-guide/" target="_blank">Dulfy</a></td>
+        </tr>
+        <tr>
+            <th>Rush</th>
+            <td><a href="http://wiki.guildwars2.com/wiki/Guild_Rush" target="_blank">Wiki</a></td>
+            <td><a href="http://dulfy.net/2013/03/17/gw2-guild-rush-guild-mission-guide/" target="_blank">Dulfy</a></td>
+        </tr>
+        <tr>
+            <th>Trek</th>
+            <td><a href="http://wiki.guildwars2.com/wiki/Guild_trek" target="_blank">Wiki</a></td>
+            <td><a href="http://dulfy.net/2013/03/03/gw2-guild-trek-guild-mission-guide/" target="_blank">Dulfy</a></td>
+        </tr>
+        <tr>
+            <th>Puzzle</th>
+            <td><a href="http://wiki.guildwars2.com/wiki/Guild_Puzzle" target="_blank">Wiki</a></td>
+            <td><a href="http://dulfy.net/2013/04/28/gw2-guild-puzzles-guild-mission-guide/" target="_blank">Dulfy</a></td>
+        </tr>
+    </tbody>
+</table>
 
-**WvW/PvP**
+#### YouTube Guides/Tips/Tricks
 
-- [GW2 Score](http://www.gw2score.com/ "GW2 Score") (Tracker)
-- [QQMore](http://qqmore.net/ "QQMore.net") - PvP resources
+[Link](https://www.youtube.com/playlist?list=PLggbvfIMjqB2eVV5xswpYx8rtDZ8uqBjg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLggbvfIMjqB2eVV5xswpYx8rtDZ8uqBjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
@@ -66,10 +107,11 @@ Link: https://dps.report
 
 The following links have general information regarding raiding in Guild Wars 2. Marked Souls has also put a series of pages together to gather what we think are the best guides and resources for each encounter.
 
-- Reddit - [A Collection of Raid Boss Guides](https://www.reddit.com/r/Guildwars2/comments/6cbezg/a_collection_of_raid_boss_guides_for_forsaken/) - This lists all the guides but isn't curated.
-- Reddit - [Getting Started in Raids](https://www.reddit.com/r/Guildwars2/comments/55vb2j/guide_getting_started_in_raids/) - Pretty good guide for players just starting out with raids.
-- Metabattle - [Raid Team Composition](http://metabattle.com/wiki/Guide:Raid_Team_Composition) - Don't let the title of this guide fool you. It has a ton of good information including break numbers for conditions and skills.
-- Dulfy - [Raid Boss Guides](http://dulfy.net/category/gw2/raid-guides/) - Text guides to the raid bosses with some videos showing the fights. Few videos contain explanations.
+- [Raid (Wiki)](https://wiki.guildwars2.com/wiki/Raid) - Official wiki raid information
+- [A Collection of Raid Boss Guides (Reddit)](https://www.reddit.com/r/Guildwars2/comments/6cbezg/a_collection_of_raid_boss_guides_for_forsaken/) - This lists all the guides but isn't curated.
+- [Getting Started in Raids (Reddit)](https://www.reddit.com/r/Guildwars2/comments/55vb2j/guide_getting_started_in_raids/) - Pretty good guide for players just starting out with raids.
+- [Raid Team Composition (Metabattle)](http://metabattle.com/wiki/Guide:Raid_Team_Composition) - Don't let the title of this guide fool you. It has a ton of good information including break numbers for conditions and skills.
+- [Raid Boss Encounter Guides (Dulfy)](http://dulfy.net/category/gw2/raid-guides/) - Text guides to the raid bosses with some videos showing the fights. Few videos contain explanations.
 
 ### Raid Builds
 
@@ -78,28 +120,8 @@ To be included on a Marked Souls Raid Team, a member must have at least one char
 - [https://snowcrows.com/builds/](https://snowcrows.com/builds/)
 - [http://metabattle.com/wiki/Raid](http://metabattle.com/wiki/Raid)
 
-### Raid Encounters
+### Raid Video Playlist
 
-Each link below leads to a page with curated information for each raid encounter.
+[Link](https://www.youtube.com/playlist?list=PLggbvfIMjqB0YFsS1X_6noSmK688T5Qoc)
 
-- Raid 1 - Forsaken Thicket
-    - Spirit Vale (aka wing 1 or w1)
-        - [Vale Guardian](https://markedsoulsmks.wordpress.com/2017/10/26/raid-encounter-vale-guardian/)
-        - [Gorseval the Multifarious](https://markedsoulsmks.wordpress.com/2017/12/18/raid-encounter-gorseval-the-multifarious/)
-        - [Sabetha the Saboteur](https://markedsoulsmks.wordpress.com/2017/10/26/raid-sabetha/)
-    - Salvation Pass (aka wing 2 or w2)
-        - [Slothasor](https://markedsoulsmks.wordpress.com/2017/10/26/slothasor/)
-        - [Prison Camp (Bandit Trio)](https://markedsoulsmks.wordpress.com/2017/10/26/raid-trio/)
-        - Matthias Gabrel \[[Dulfy](http://dulfy.net/2016/03/16/gw2-matthias-gabrel-salvation-pass-raid-guide/)\]
-    - Stronghold of the Faithful (aka wing 3 or w3)
-        - Siege the Stronghold (Escort)
-        - [Keep Construct](https://markedsoulsmks.wordpress.com/2017/10/26/raid-encounter-keep-construct/)
-        - [Xera](https://markedsoulsmks.wordpress.com/2017/10/26/raid-xera/)
-- Raid 2 - Bastion of the Penitent (aka wing 4 or w4)
-    - [Cairn the Indomitable](https://markedsoulsmks.wordpress.com/2017/10/26/raid-cairn/)
-    - [Mursaat Overseer](https://markedsoulsmks.wordpress.com/2017/10/26/raid-mursaat-overseer/)
-    - [Samarog](https://markedsoulsmks.wordpress.com/2017/10/26/raid-encounter-samarog/)
-    - [Deimos](https://markedsoulsmks.wordpress.com/2017/11/02/raid-encounter-deimos/)
-- Raid 3 - Hall of Chains (aka wing 5 or w5)
-    - [Soulless Horror](https://markedsoulsmks.wordpress.com/2018/05/16/raid-encounter-soulless-horror/)
-    - Dhuum \[[Dulfy](http://dulfy.net/2017/12/05/gw2-dhuum-raid-boss-guide/)\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLggbvfIMjqB0YFsS1X_6noSmK688T5Qoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

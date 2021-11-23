@@ -20,16 +20,16 @@ _One last piece of info before I begin.  I came up with the name "Zhill" when I
 
 <h3>Table of Contents</h3>
 <ul>
-  <li><a href="#">Part 1: Unlife</a></li>
-  <li><a href="#">Part 2: The Shadow Embraced/Human Foe</a></li>
-  <li><a href="#">Part 3: Invasion</a></li>
-  <li><a href="#">Part 4: Trespasser</a></li>
-  <li><a href="#">Part 5: Hero</a></li>
-  <li><a href="#">Part 6: Calm</a></li>
-  <li><a href="#">Part 7: Storm</a></li>
-  <li><a href="#">Part 8: The end...</a></li>
-  <li><a href="#">Part 9: ...of the beginning</a></li>
-  <li><a href="#">Part 10: Rebirth</a></li>
+  <li><a href="">Part 1: Unlife</a></li>
+  <li><a href="">Part 2: The Shadow Embraced/Human Foe</a></li>
+  <li><a href="">Part 3: Invasion</a></li>
+  <li><a href="">Part 4: Trespasser</a></li>
+  <li><a href="">Part 5: Hero</a></li>
+  <li><a href="">Part 6: Calm</a></li>
+  <li><a href="">Part 7: Storm</a></li>
+  <li><a href="">Part 8: The end...</a></li>
+  <li><a href="">Part 9: ...of the beginning</a></li>
+  <li><a href="">Part 10: Rebirth</a></li>
 </ul>
 
 <h3>Part 1: Unlife</h3>

@@ -10,9 +10,9 @@ eleventyNavigation:
 
 “Remarl Got Drunk” was a piece started by Remarl that turned into a long story based in the lore of Guild Wars co-written by members of Marked Souls. The following members contributed to the story: Remarl, Raven, Kousei, and Lyne.
 
-Chapter 01: Remarl Got Drunk
+### Chapter 01: Remarl Got Drunk
 
-by: Remarl
+#### by Remarl
 
 So, Remarl’s sittin’ under the pier, over in Sanctum Cay, just sippin’ his grog [ie. guzzling it down like there's no tomorrow]. It’s nice and cool there in the shade of the pier; a great spot to mull things over not to mention get rip-roaring drunk. This shady spot also has the benefit of keeping Remarl out of sight from the watchful eyes of White Mantle patrols who are, walking around in the hot sun, policing the area.
 
@@ -26,13 +26,13 @@ He arrives on a small beach of the island and catches sight of two sets of footp
 
 Fortunately for our crazy Mesmer he is stopped on the beach by some friends from his alliance who ended up on this same beach for reasons of their own.
 
-by: Raven
+#### by Raven
 
 Allorathine Raven is running with supplies to add to her stash of grog onboard the boat docked at Sanctum Cay. She has purchased a large shipment of grog to be transported to her Monument Hall for safe keeping. She is having shipments of alcohol come in from Cantha, Tyria, and Elona all due to arrive in her hall (and ultimately her tummy) at virtually the same time. When Allorathine arrives ahead of schedule, via Ursan speed boost, with her arms full from a large bottle of Juniberry Wine, she is just in time to see her hired transport leave the dock.
 
 “By the finger of Grenth! Where do they think they’re going? I have eight more of these bottles to go and get from Lions Arch. Allorathine waves over one of the henchmen lining the beach; “I’ll pay you fifty gold to watch this for me till I return…I need to catch that boat that’s leaving before it gets too far.” The henchman agrees, and with a nod Allorathine is off running after her transport. She needs to catch that boat not only because it holds her precious alcohol, but also her Destroyer weapons are onboard that ship and she is not about to go through what she had to the first time to get another set! She plows into the water at a dead (undead?) run. Allorathine hopes she can reach the transport skiff before it catches the wind or current in the middle of the channel. It’s then that she notices the boat is moving kind of erratically as if the captain is drunk or has a newbie crew. Perhaps there is some hope after all. She takes a deep breath and starts swimming fiercely towards the skiff whose apparent destination is the opposite shore of the channel. Bouyed by her magical Fissure armor, she reaches the side of the boat just as it runs up onto the small beach. She climbs over the side to get to her weapons so she can deal with any unknown interlopers who might be between her and her alcohol. Grabbing her weapons quickly, she then hops off the boat and sees…”is that! … Remarl?!?!” The Mesmer is swaying from side to side looking into the trees at the beachhead. “By the finger of Grenth! So help you if you’ve touched even one drop of my shipment of alcohol you’ll be So very sorry you did! What are you doing here anyway?”
 
-by: Kousei
+#### by Kousei
 
 After a long journey, he finally sees the island spoken of by Livia. Ever since Kousei’s decision to embrace the necrotic arts he has been searching for ways to increase his command of them and according to Livia the ruins here contain the secret to doing so. “It all comes down to this,” he thought to himself as he gazed upon the island and the barely visible ruins deep within it.
 
@@ -62,7 +62,7 @@ As he returned to the beach, he overheard a small group of maybe 2 or 3 White Ma
 
 Upon reaching the beach, he was extremely surprised to see Remarl and Allorathine arguing about spirits. Kousei entered the conversation with “If he did touch your shipment, he had better share because after the last two days I need a drink!”
 
-by: Lyne
+#### by Lyne
 
 The dunes were where she made her life, and had a tough upbringing, wurms devastated her homeland, and she became a hermit. In her travels through the tough territory she met an elder Shaman, who shared some of his secret potions and salves that healed the deepest wounds. She took the counsel of the Wurka tribe in the caves near the desolation and learned the skills of combat. She sat in devotion in the temples of Dwana and was given the gift of protection after fasting for 28 days. She trained on the shores of Tyria with an Alchemist who showed her the ways of the words and made her practice incantations.
 
@@ -80,9 +80,9 @@ The ship captain did not want to land on the dangerous shores on the western sid
 
 She walked a short time before encountering two men and a woman on the beach. One of the men wore heavy armor and shocking red hair styled in pony tail of all things, the other looked like a dignified sorcerer, but seemed to be very tipsy and wielded a sword emanating a purple aura. As for the woman, she looked like a powerful dark witch of the time of old. The witch seemed quite upset at the sorcerer and was pointing her finger at him accusingly. Amani was not sure how to perceive them, were they friends, or foes?
 
-Chapter 02: A Meeting of Friends
+### Chapter 02: A Meeting of Friends
 
-by Remarl
+#### by Remarl
 
 Now, as you know, a Mesmer is quick on his feet. They HAVE to be fast at everything, because EVERYONE is out to get them during combat. Remarl is no slouch Mesmer and prides himself on doing his part better than anyone could ask. Kousei, his Guild Leader, is here. “I can’t have him seeing me like this,” thinks Remarl. Plus, there are two beautiful women on this beach. “And there be wenches to impress here too; time to stand tall mate. Women are always impressed by a well dressed man, and ye, ye sly fox, ye have on yer Monument armor. AAARRR ye be well dressed AND dangerous lookin’. They’ll most likely fall all over themselves fer ye!” Remarl smiles to himself. Remarl twists the handle of his shield in a certain way and the dazed drunken feeling slips away fast. If thar be any spirits to be had on yon vessel I had but the briefest of sips, ter determine vintage of course” says Remarl as he salutes his leader.
 
@@ -92,7 +92,7 @@ Now, as you know, a Mesmer is quick on his feet. They HAVE to be fast at everyth
 
 “Kousei, I was here on personal business doin’ a wee bit o’ tearin’ after. Legitimate it were too. The White Mantle were tryin’ ter do a bit o’ snatchin’ the bottle from yers truly. I showed five or six o’ ‘em the fastest way to meet Grenth and the rest made hasty get thee gone to this place ‘ere. However, I shall differ to ye, my stalwart leader, on what ‘appens next. Although, I der consider the White Mantle to be a nuisance of the most dastardly sort and should they all meet Grenth, and ‘ave to lick the fungus from under ‘is toenails today, the world would be a brighter place.” “Me wonders what ‘personal reasons’ brings Kousei to this island. last we talked he were going on and on about the newest of Necromancer magicks, Blood Magic.”
 
-by Raven
+#### by Raven
 
 “Remarl, I know you and your tiiiiiniest sip has the tiiiiiiniest bit of truth to your whole story. You were swaying like a wisp a second ago, you drunken pirate. Although, apparently you’re fine now!” “How did he do that? He pulled some slick Mesmer trick there and you know it. One of these days I’m going to catch that handsome pirate in the act and make him pay. Yes, a little Life Siphon to the ‘little pirate’ on that Mesmer will teach him, hee hee.” thinks Allorathine.
 
@@ -106,7 +106,7 @@ Allorathine bows to the Monk at Remarl’s introduction. “Who do we have here?
 
 “If she doesn’t work out, I can always use her bones to make a couple of minions. She looks desert born though, so she’ll probably be tough Monk..I hope so. Just stay on my good side miss desert Monk girl. You don’t want to see my bad side. There’s no one left alive who’s seen my bad side. Unless you call being a Bone Fiend equal to having a life.”
 
-by Kousei
+#### by Kousei
 
 [turns to the monk] As Remarl said, I am the leader of our motley band of soldiers. I would like to request your aid on our upcoming endeavor. Please give this request thought while I explain the situation to all of you.
 
@@ -122,7 +122,7 @@ I do not know what kind of scouting the battalion is doing. It seemed that they 
 Oh and one last thing. Dorian is alive. While I was scouting the ruins, a Mantle soldier said he was the one who wanted the secrets of the ruins. I should have put my sword through his heart when I had the chance at Thunderhead….
 [turns to the monk] So are you in?
 
-by Lyne
+#### by Lyne
 
 “This mesmer has wit on top of charisma and intelligence. How does he go through life like that?” thought Amani as she looked at him.
 
@@ -142,9 +142,9 @@ Kousei, Remarl and even Allorathine were astounded by her speech and voice, they
 
 She stood there, and for them it was as if time stood still, then it moved in very slow motion, her smile came, and her eyes shone with a light and it filled their souls with gladness, power and confidence. She said more words. “I will join you in your mission, but I would hope for your help to find the kin of the tribes in the east desert, their people need my help. You will get used to my voice, I am a healer, and I shall protect you, but you have to also defend me, my healing powers are not as effective on myself as they are on you. You shall also get used to the sensations you are getting now from my voice. I shall follow you, and I shall answer questions later”. She inclined her head again to Kousei, and when she lifted her brow, he had just gotten out of his feeling of being watered by a cool spring rain that removed any doubts that he may have had about her.
 
-Chapter 03: Astra’s Experience
+### Chapter 03: Astra’s Experience
 
-by Remarl
+#### by Remarl
 
 Just down the way from Figo’s pier in Lions Arch you’ll find a tidy little spot tunnled into the hillside. The only remarkable thing about this place is the small red lamp hanging, hidden from plain view from the walkway, in what one would speculate to be the smallest window in all of Tyria. While, at first glance, this place appears to be a small beachshack for private use; it is, in fact, a thriving business. The headboard over the doorway boasts four words written in Old Krytan, whice almost everyone doesn’t use anymore, “Den of the Lioness”.
 
@@ -164,7 +164,7 @@ Astra spends the next two days healing ‘Sylvia’ through the tarp on her cage
 
 “Hey, Kousei” says Astra, saluting. “This is Sylvia; I hope she or Remarl will tell us more about her. Apparently Remarl is already aquainted with her.” Astra looks toward Remarl questioningly.
 
-by Lyne
+#### by Lyne
 
 In the dark recesses of the cargo hold, two hooded forms were crouching. One of them tried to hide a very long bow under the folds of a long cloak. Urgent whispers going back and forth from one hunched figure to the other. When Astra came on board the White Mantle ship, one of the forms crept closer to the cage where their ward was being kept, and then retreated back to their hiding place. They waited until Astra and Sylvia made their escape, one figure stealthily crawled to the deck and made sure they had a safe getaway.
 
@@ -182,9 +182,9 @@ She opened her eyes suddenly, and stood up quickly, her veins seemed to pump ice
 
 As they got to the deck, it looked like dusk, but Wil knew it was not dusk. “By the power of Melandru, the gods are helping us maybe we will get more aid.” Gaile paused one more time to cast a wind spell, and Wil paused with her. They made their escape without alarm, but now, they had to find a way to get close enough to Dorian and finish the job. They reached another hiding place to get their disguises on, and then mingled with the white mantle awaiting their next opportunity.
 
-Chapter 04: Confessor Dorian
+### Chapter 04: Confessor Dorian
 
-by Remarl
+#### by Remarl
 
 Confessor Dorian enters his comand tentafter his morning spiritual. A little disgruntled because there were only three villagers available to sacrifice; he goes to his table where a scetch of the island is laid out. “Felstaf, come in now” he says, summoning his general. “Are those reports about interlopers on the island true?” “Yes SIR! they come from the ship that bore the Creature and two trusted guardsman from Sanctum Cay confirm it” Felstaf replies. “I want the island swept. All troops spreading from this northeast corner of our basecamp to the opposite side of the island. Use squads consisting of nine Warriors, two Mesmers, two Elementalists, one Ranger, three Monks, two Necromancers, two Assassins, two Dervish, and two Ritualists. The Assassins are to be your advance search party, tell them to use all possible stealth and not to directly confront the interlopers but teleport back to the squad and report. I don’t want anyone breaking ranks on this; we lose too many battles getting all strung out.”
 
@@ -196,7 +196,7 @@ Confessor Dorian enters his comand tentafter his morning spiritual. A little dis
 
 “Go now, I want good news by the end of this day.” General Felstaf starts to leave. “Oh, and Felstaf, . . . . . . . kill them all.”
 
-By Lyne
+#### By Lyne
 
 Gaile and Wil disguised as spiritual priests held their peace at the sacrifice during Dorian’s prayer. Gaile was twitching most of the time, and after the end of it, Wil asked her why she was in that state. “It itches, how did you find disguises that itch in Lyssa’s name?” Gaile responded.
 - “I thought you were uneasy about the villagers being sacrificed.” He said, as he thought to himself with lips quirked; “she can be such a princess at times”.
@@ -235,9 +235,9 @@ Wil did the same with his disguise, and crouching in front of her, seeing that s
 
 Far, a mile into the forest, two squads were approaching Kousei’s group which was on a hill. Sylvia behind the monks was crouching on the ground, and holding on to branches of a bush right next to her. The approaching squads suddenly doubled back and went back towards the camp. Kousei was thinking, and said in a whisper “A change of heart? Or a diversion?” Sylvia seemed to go into a trance, and said “the forest speaks that two people, one ranger with a grim and decided jaw, flowing hair, and a long coat, running through the forest a mile away, holding the hand of a long limbed, jade faced woman.” Kousei, turning to Sylvia asked her “Can you give me more description about the woman?” – “Yes, she has ice eyes, and fire hair”. Kousei hissed between his teeth “Gaile”. – “Sylvia, can you tell me where they are located?” She pointed to the direction that the squads were taking. Kousei rose from the hiding place he occupied. Remarl, Astra, Allorathine, Sylvia and Amani rose with him awaiting his reaction.
 
-Chapter 05: The Escape and the Battle
+### Chapter 05: The Escape and the Battle
 
-by Lyne
+#### by Lyne
 
 The Escape
 
@@ -262,8 +262,11 @@ He then turned to Dorian and yelled “No deal”.
 Dorian turned back and with two squads headed back to his camp. Before he left, he instructed his general to kill everyone but the nymph and bring all their bodies to him.
 
 Kousei had only a few seconds to take a breather and the assault resumed, droves of warriors attacked and they started to overwhelm their defenses. At a certain point, Kousei was attacked so harshly by a pickaxe warrior that his armor pierced his wielding arm and was fused to his wound. As he swung his sword with his right arm, it flew uncontrollably back and lodged itself in the ground. After this injury his armor severed the muscle with every move he made, he had to pull his katana from its sheath strapped to his back and use his left arm to continue the fight. After 5 minutes of battle, it seemed impossible to thwart the continuous assault, and they started losing ground and hope.
-Chapter 06: Nature’s Force
-by Lyne
+
+### Chapter 06: Nature’s Force
+
+#### by Lyne
+
 Gaile retreated to the middle and took out the prism from her corset, and both Sylvia’s and Amani’s eyes widened. Sylvia said “This looks like the morphing prism, this comes at propitious time, we could use it.”
 
 Sylvia approached Gaile and started talking to her quickly, Gaile nodding, talked to Amani. Sylvia started making healing traps and set them all around Remarl, Astra, Wil and Allorathine and then asked Allorathine to stop bombarding her minions and create shambling horrors. Kousei at this point is continually bleeding and losing strength with each blow he made, yet bodies were still falling at his feet, and shambling horrors were milling about everywhere. Astra started feeling like he was being overwhelmed, so he turned to look at what Amani was doing, to his horror, he saw her sitting down cross legged across from Gaile, AND Sylvia. They were moving their lips soundlessly at first, but then their prayers were suddenly audible but not in a language he knew. He felt that something was about to happen, so he turned to Remarl and yelled “Grab Kousei when things change.” Remarl looked at him questioningly and suddenly there was a mist that started to get heavier and started to have a shape that choked each enemy and killed them with the power of cold. Remarl grabbed Kousei and tried to get him out of his frenzy. Allorathine turned around to see where the source of the mist was, and saw that the prism was shaking with power, as was Gaile. Sylvia got up and addressed them. “Gaile and Amani are going to hold the enemy for a little time, but they cannot do this for long. There is no time to explain why, nor how. We have to act quickly.” She pointed at Kousei who collapsed in a puddle of his own blood, we have to take care of him first, but I need a bowl of spring water, so Wil make me a trap where I was sitting and someone else move Kousei close.” Allorathine was rummaging into her backpack and produced a bowl as Remarl, and Astra moved Kousei who regained consciousness. Remarl said to Allorathine “Yer can be ser domestic”. “I also need a knife” said Sylvia, and Wil handed her his knife. Sylvia took the bowl, filled it with water from the spring and cut muscle from Kousei’s arm as he howled with pain, with everyone looking at her in shock except for Gaile and Amani who seemed to be in their own world of pain. She looked at them, and said “It needs to be done, otherwise you will not be protected, flesh and blood is powerful.” She put the muscle in the bowl and approached Wil with the knife and said “From you, blood” and handed his knife back. Wil punctured and slashed his left hand, and blood trickled from the wound into the bowl. Sylvia approached Gaile and kneeling next to her she took a tear from her eyes and then Amani breathed on the water of the bowl. At that time, the mist started to dissipate as Gaile became visibly weaker. Syalvia turned to Wil, Remarl and Astra and said “you will have to help them up and hold them so they would not fall.” Remarl asked “Up WHERE?” She answered him “Up on me”, went to him and plucked a hair from his head, and put it in the bowl. At that point, Amani began to chant, and instead of mist, a melody with a bright light emanated from the top of the prism, and they seemed to be enclosed in a protection dome. The enemies were outside the dome and hitting it with all they could. Sylvia started to work quickly and from Astra, she asked for sweat, mopped his brow with her slender hand, and washed it in the bowl. In his mind, he thought he would give her something else. From Allorathine, she paused for a moment thinking what she could have, and Allorathine without being asked spat in the bowl, and Sylvia smiled. Sylvia knelt for a moment and put the bowl near the prism, and recited an incantation, while she saw that amani was growing weaker, and the dome was getting more translucent. She then stood near Kousei, and asked them all to come closer, while Wil renewed his healing trap at her feet. She looked at Astra and Allorathine and said “Come closer and hang on to my shoulders, remember to hang tight and then climb on my shoulders when you can” They both looked puzzled but complied. She gave the bowl to Wil and said, water me from the top, and don’t forget to wrap the prism and save it. When Gaile and Amani are through, they will be exhausted.” Wil took the bowl from her, and recognized the ancient magic involved he kissed her on the lips and with ceremony, emptied the bowl over her head.
@@ -271,8 +274,11 @@ Sylvia approached Gaile and started talking to her quickly, Gaile nodding, talke
 Astra, holding on, enjoying the soft feel of the shoulder and arm of a woman, “and she asked for it too” he thought, as he was fantasizing about what he could do if they were alone, he felt his feet get off the ground, and his weight had to be supported by his strong arms and shoulders (thank Lyssa for pushups). He looked down, and instead of Sylvia’s feet that were there just a few seconds ago, roots of a tree started growing, and the soft flesh that was there a moment ago became rough and abrasive, the arm that was supple became un-pliable and turned into a strong branch, the neck that he wanted to nuzzle into and the face he wanted to kiss disappeared into the crown of a very fast growing tree, he looked down again, and her legs, hips, and torso had already turned into the trunk. At this point, the dome was dissipating, and Remarl was climbing next to Allorathine, and nudging her to go up one more branch. Wil was carrying Gaile who had no power to walk but mumbled something that Allorathine heard as Wil was handing her to Remarl. Allorathine said “She is talking about the prism, don’t forget the prism”. The tree was budding with thousands of spring buds, and flowers came forth with silver petals and gold stamen and pistils. As Wil was handing Amani over to Astra, the enemies were able to break through the dissipating dome of protection and came charging at them. Wil pocketed the prism and readied his bow, Kousei struggled to get up with his katana, and the flower petals started to fall as the enemies came closer to strike Kousei and Wil, but could not. The petals were creating a layer of protection against them. The closest warriors were snarling and raging. One giant warrior was at the front just one yard away from Kousei and Wil with a deadly long sword in his hands. He was smiling as he said “you cannot escape, there are almost no petals left, and then you are mine”. A gold dart punctured his eye, and he dropped dead, all around the enemies closest to the tree just dropped dead, punctured, in the neck, nose, eyes, head and even in the mouth as they yelled in fear and retreated. Kousei, sat back down and watched, Wil had collapsed on one knee and turned his head away from the carnage. Then Allorathine said “look” as she pointed to the forest. All of them who could see watched as the forest trees swayed and hit every one in their proximity. The ground underneath rumbled and roots started racing towards were our heroes were, they caught any living thing that was on the ground except for Kousei and Wil, and started toppling them, dragging them, breaking their bones, and strangling the ones that were not dead. The deaths were without pity, and none escaped. From afar, you could hear the retreat being called and the only safe place to be was at sea. The tree they were on, started growing leaves, and swayed in the breeze, making a soft noise that became louder and overtook the screams of agony that they had heard. The only scene in front of them left was that of the hundreds of corpses that were left by the fury of the forest. The tree bared fruit, and it ripened, and it fell on the ground near Wil and Kousei. Our heroes were gaping aghast at the event they just witnessed, and waited until they felt the ground had stopped rumbling and the trees had visibly stopped moving. The corpses that were closest to them were being dragged away from them down the hill they saw them being handed from root to root, branch to branch like marionettes without strings attached to them. The earth seemed to have turned into a sponge that imbibed all the blood that was there, and all that was left was them, on the tree, on top of the hill. Amani gasped for air, Astra suddenly realized that he was holding her too tight, and slacked his hold on her. Everyone was tense. Allorathine was the first to react “well, it would be a hell of a cleanup tomorrow”. She started to climb down, and Wil getting over the shock, asked for Amani to be handed down to him, then Astra, and Remarl got Gaile down and they all stayed close to the tree that was once Sylvia.
 
 Kousei having suffered extreme blood loss was the first to be taken care of by the men. Allorathine made herself useful by collecting their backpacks and starting to make a camp. Wil, and Remarl struggled to get the armor off Kousei so he could stop bleeding and Astra could do his work and serious healing. Wil had to go hunting before dusk set in, and came with lots of fowl as a result of the hunt. Remarl had finished setting up camp, and helped Allorathine with getting Gaile and Amani all settled in. They dined on roasted fowl, and fruit that night. That night, except for Kousei, neither of the men nor Allorathine slept. All they could do was replay the atrocity of the carnage they witnessed.
-Chapter 07: Camp
-by Lyne
+
+### Chapter 07: Camp
+
+#### by Lyne
+
 The next day, Kousei got up and staggered trying to collect his gothic sword. Astra went to him and promised he would kill him if he continued to be unreasonable like that. Kousei looked at him and said he wanted to see Dorian’s head severed from his body, and if he had to go through Astra then he would. Then after he completed that sentence he fell to his knees, still weak from the fight of the day before. Remarl had to convince Kousei, that there is nothing to gain from going now. They were still wounded, and Gaile as well as Amani had not been able to recuperate yet. Wil had gone to hunt again, and this time he came with two deer that he skinned and prepared for a meal. Wil was bewildered, as he said to them that he saw no bodies anywhere. He said that he had the feeling there was no one on the island but them now.
 
 More fruit was ripe and fell off the tree they were sheltered under. When Kousei had succumbed to reason, he ate his fill and rested. Amani and Gaile were conscious by noon when they both ate and were satisfied. Wil had scouted a spring that ended in a small pool on the west side of the hill, and the women went there and refreshed themselves with a bath. Amani came back with berries and herbs and started working on a potion that she immediately drank. All of these things were done quietly, and robotically. As if they were all listless and unconscious.

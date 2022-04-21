@@ -31,10 +31,12 @@ eleventyNavigation:
 
 #### Crafting / Trading Post / Maps
 
-- <a href="http://www.gw2crafts.net/" target="_blank">GW2Crafts.net</a>
 - <a href="https://www.gw2bltc.com/" target="_blank">GW2 BLTC</a>
-- <a href="http://www.gw2spidy.com/" target="_blank">GW2Spidy.com</a>
 - <a href="http://www.gw2nodes.com/" target="_blank">GW2 Nodes</a>
+- <a href="http://www.gw2crafts.net/" target="_blank">GW2Crafts.net</a>
+- <a href="http://www.gw2spidy.com/" target="_blank">GW2Spidy.com</a>
+- <a href="https://fast.farming-community.eu/" target="_blank">[fast] Farming Community</a>
+- <a href="https://www.peuresearchcenter.com/" target="_blank">Peu Research Center</a>
 
 #### Guild Missions
 
@@ -95,7 +97,14 @@ eleventyNavigation:
 
 TacO is an overlay tool that has a pretty big feature list but the important things for raids are markers and timers for boss specific mechanics. Poison countdown on Matthias, mushroom labels on Sloth, etc.
 
-Link: http://gw2taco.blogspot.com/
+Software: http://gw2taco.blogspot.com/
+Tekket's All-in-One Marker Pack: https://www.tekkitsworkshop.net/index.php/download
+
+### Blish HUD
+
+A modern Guild Wars 2 overlay with powerful module support.
+
+Software: https://blishhud.com/
 
 ### ARC DPS
 

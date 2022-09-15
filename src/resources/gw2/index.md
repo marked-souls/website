@@ -127,6 +127,7 @@ The following links have general information regarding raiding in Guild Wars 2. 
 - [Getting Started in Raids (Reddit)](https://www.reddit.com/r/Guildwars2/comments/55vb2j/guide_getting_started_in_raids/) - Pretty good guide for players just starting out with raids.
 - [Raid Team Composition (Metabattle)](http://metabattle.com/wiki/Guide:Raid_Team_Composition) - Don't let the title of this guide fool you. It has a ton of good information including break numbers for conditions and skills.
 - [Raid Boss Encounter Guides (Dulfy)](http://dulfy.net/category/gw2/raid-guides/) - Text guides to the raid bosses with some videos showing the fights. Few videos contain explanations.
+- [Phoenix Uprising Guides](https://www.phoenixuprising.net/gw2-raid-guides/) - Text and video guides for raid bosses. 
 
 ### Raid Builds
 

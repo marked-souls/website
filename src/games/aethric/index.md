@@ -4,6 +4,7 @@ title: Hero of Aethric
 eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: aethric
+  parentKey: games
 ---
 
 <p>

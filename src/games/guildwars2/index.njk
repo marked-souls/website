@@ -1,0 +1,44 @@
+---
+layout: layouts/page.njk
+title: Guild Wars 2
+eleventyExcludeFromCollections: true
+eleventyNavigation:
+  key: gw2
+  parentKey: games
+---
+
+<ul class="nav nav-tabs mb-3" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="join-tab" data-bs-toggle="tab" data-bs-target="#join-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Join</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="links-tab" data-bs-toggle="tab" data-bs-target="#links-tab-pane" type="button" role="tab" aria-controls="links-tab-pane" aria-selected="false">Links and Resources</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="tools-tab" data-bs-toggle="tab" data-bs-target="#tools-tab-pane" type="button" role="tab" aria-controls="tools-tab-pane" aria-selected="false">Recommended Tools</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="raids-tab" data-bs-toggle="tab" data-bs-target="#raids-tab-pane" type="button" role="tab" aria-controls="raids-tab-pane" aria-selected="false">Raids</button>
+  </li>
+</ul>
+
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="join-tab-pane" role="tabpanel" aria-labelledby="join-tab" tabindex="0">
+    {% include "games/guildwars2/join.njk" %}
+  </div>
+  <div class="tab-pane fade" id="links-tab-pane" role="tabpanel" aria-labelledby="links-tab" tabindex="0">
+    {% include "games/guildwars2/links.njk" %}
+  </div>
+  <div class="tab-pane fade" id="tools-tab-pane" role="tabpanel" aria-labelledby="tools-tab" tabindex="0">
+    {% include "games/guildwars2/tools.njk" %}
+  </div>
+  <div class="tab-pane fade" id="raids-tab-pane" role="tabpanel" aria-labelledby="raids-tab" tabindex="0">
+    {% include "games/guildwars2/raids.njk" %}
+  </div>
+</div>
+
+<div class="text-center">
+    <a href="https://www.guildwars2.com" target="_blank">
+        <img src="{{ '/img/games/gw2/gw2-logo.png' | url }}" alt="Guild Wars 2 logo" style="height: 200px;" />
+    </a>
+</div>

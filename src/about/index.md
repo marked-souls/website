@@ -20,6 +20,7 @@ In Marked Souls, participation in the community counts for a lot more than your 
 <h4>In what games can you find Marked Souls?</h4>
 {% include "blurbs/games.njk" %}
 <hr>
+{#
 <h4>What has Marked Souls done in the games it has played?</h4>
 <p class="small text-muted">(alphabetically by game)</p>
 Aion
@@ -33,3 +34,4 @@ Guild Wars
   <li>speed clears, title hunting, farming, and running</li>
   <li>Held multiple times in HA</li>
 </ul>
+#}

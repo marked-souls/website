@@ -1,0 +1,32 @@
+---
+layout: layouts/page.njk
+title: Hero of Aethric
+eleventyExcludeFromCollections: true
+eleventyNavigation:
+  key: aethric
+  parentKey: games
+---
+
+<ul class="nav nav-tabs mb-3" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="join-tab" data-bs-toggle="tab" data-bs-target="#join-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Join</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="links-tab" data-bs-toggle="tab" data-bs-target="#links-tab-pane" type="button" role="tab" aria-controls="links-tab-pane" aria-selected="false">Links and Resources</button>
+  </li>
+</ul>
+
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="join-tab-pane" role="tabpanel" aria-labelledby="join-tab" tabindex="0">
+    {% include "games/aethric/join.njk" %}
+  </div>
+  <div class="tab-pane fade" id="links-tab-pane" role="tabpanel" aria-labelledby="links-tab" tabindex="0">
+    {% include "games/aethric/links.njk" %}
+  </div>
+</div>
+
+<div class="text-center">
+    <a href="https://northernforge.com/" target="_blank">
+        <img src="{{ '/img/games/aethric.png' | url }}" alt="Hero of Aethric logo" style="height: 200px;" />
+    </a>
+</div>

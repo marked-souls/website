@@ -1,32 +1,32 @@
 ---
 # Metadata comes from _data/metadata.json
-permalink: "{{ metadata.jsonfeed.path }}"
+permalink: feed/feed.json
 eleventyExcludeFromCollections: true
 ---
+{% set absoluteUrl %}{{ permalink | url | absoluteUrl(metadata.url) }}{% endset %}
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "{{ metadata.title }}",
-  "language": "{{ metadata.language }}",
-  "home_page_url": "{{ metadata.url }}",
-  "feed_url": "{{ metadata.jsonfeed.url }}",
+  "language": "{{ metadata.language or page.lang }}",
+  "home_page_url": "{{ metadata.url | addPathPrefixToFullUrl }}",
+  "feed_url": "{{ absoluteUrl }}",
   "description": "{{ metadata.description }}",
-  "author": {
-    "name": "{{ metadata.author.name }}",
-    "url": "{{ metadata.author.url }}"
-  },
+  "authors": [
+    {
+      "name": "{{ metadata.author.name }}"
+    }
+  ],
   "items": [
     {%- for post in collections.posts | reverse %}
-    {%- set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
+    {%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.url) }}{% endset %}
     {
       "id": "{{ absolutePostUrl }}",
       "url": "{{ absolutePostUrl }}",
       "title": "{{ post.data.title }}",
-      "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe }}{% else %}""{% endif %},
-      "date_published": "{{ post.date | rssDate }}"
+      "content_html": {% if post.content %}{{ post.content | renderTransforms(post.data.page, metadata.url) | dump | safe }}{% else %}""{% endif %},
+      "date_published": "{{ post.date | dateToRfc3339 }}"
     }
-    {%- if not loop.last -%}
-    ,
-    {%- endif -%}
+    {% if not loop.last %},{% endif %}
     {%- endfor %}
   ]
 }

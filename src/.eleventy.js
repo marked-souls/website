@@ -1,16 +1,48 @@
-const { DateTime } = require("luxon");
-const fs = require("fs");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const pluginNavigation = require("@11ty/eleventy-navigation");
-const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
+import { DateTime } from "luxon";
+import fs from"fs";
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
+import pluginNavigation from "@11ty/eleventy-navigation";
+import markdownIt from "markdown-it";
+import markdownItAnchor from "markdown-it-anchor";
 
-module.exports = function(eleventyConfig) {
+export default function (eleventyConfig) {
   // Add plugins
-  eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+
+  // RSS
+  eleventyConfig.addPlugin(feedPlugin, {
+    type: "rss",
+    outputPath: "feed/feed.xml",
+    collection: {
+      name: "posts",
+      sort: "auto",
+    },
+    metadata: eleventyConfig.globalData.metadata
+  });
+
+  // Atom
+  eleventyConfig.addPlugin(feedPlugin, {
+    type: "atom",
+    outputPath: "feed/feed.atom",
+    collection: {
+      name: "posts",
+      sort: "auto",
+    },
+    metadata: eleventyConfig.globalData.metadata
+  });
+
+  // JSON Feed
+  eleventyConfig.addPlugin(feedPlugin, {
+    type: "json",
+    outputPath: "feed/feed.json",
+    collection: {
+      name: "posts",
+      sort: "auto",
+    },
+    metadata: eleventyConfig.globalData.metadata
+  });
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
